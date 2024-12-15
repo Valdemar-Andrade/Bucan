@@ -1,6 +1,6 @@
 # Bucan
 
-Um sistema de biblioteca para fazer emprestimos a estudantes
+Um sistema de biblioteca para fazer emprestimos de Livros a estudantes
 
 ## Usados:
 
